@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-jose
+sentence-transformers
+faiss-cpu
+numpy
